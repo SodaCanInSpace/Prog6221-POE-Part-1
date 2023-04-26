@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Prog6112\POE\bin\Debug\net7.0\POE.exe
+C:\Users\user\Desktop\Prog6112\POE\bin\Debug\net7.0\POE.deps.json
+C:\Users\user\Desktop\Prog6112\POE\bin\Debug\net7.0\POE.runtimeconfig.json
+C:\Users\user\Desktop\Prog6112\POE\bin\Debug\net7.0\POE.dll
+C:\Users\user\Desktop\Prog6112\POE\bin\Debug\net7.0\POE.pdb
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\POE.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\POE.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\POE.AssemblyInfo.cs
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\POE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\POE.dll
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\refint\POE.dll
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\POE.pdb
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\POE.genruntimeconfig.cache
+C:\Users\user\Desktop\Prog6112\POE\obj\Debug\net7.0\ref\POE.dll
